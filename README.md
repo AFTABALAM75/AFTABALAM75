@@ -1,8 +1,7 @@
-[![MasterHead](https://png.pngtree.com/png-vector/20230801/ourmid/pngtree-computer-science-character-working-at-desk-vector-png-image_6828778.png)](https://AFTABALAM.io)
+[![MasterHead](https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a)](https://github.com/AFTABALAM75)
 <h1 align="center">Hi 👋, I'm AFTAB ALAM</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20230801/ourmid/pngtree-computer-science-character-working-at-desk-vector-png-image_6828778.png")
-
+<img align="right" alt="Coding" width="200" src="https://png.pngtree.com/png-vector/20230801/ourmid/pngtree-computer-science-character-working-at-desk-vector-png-image_6828778.png">
 
 - 🌱 I’m currently learning **JAVA PROGRAMMING**
 
