@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm AFTAB ALAM</h1>
+<h1 align="center">Hi👋 I am AFTAB AlAM</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 <img align="right" alt="Coding" width="200" src="https://png.pngtree.com/png-vector/20230801/ourmid/pngtree-computer-science-character-working-at-desk-vector-png-image_6828778.png">
 
-- 🌱 I’m currently learning **SOFTWARE ENGINEERING**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabalam75&label=Profile%20views&color=0e75b6&style=flat" alt="aftabalam75" /> </p>
 
 - 📫 How to reach me **alamaftabb00@gmail.com**
 
