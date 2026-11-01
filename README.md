@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabalam75&label=Profile%20views&color=0e75b6&style=flat" alt="aftabalam75" /> </p>
 
 - 📫 How to reach me **alamaftabb00@gmail.com**
+- - 📫 How to reach me **7524816456**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
